@@ -1,0 +1,19 @@
+p, h1, h2, h3, ol, a {
+    font-family: 'Trebuchet MS';
+    text-align: center
+}
+.linkki_keskitys {
+    text-align: center;
+}
+h1, h2, h3 {
+font-size: 300%;
+}
+p {
+font-size: 160%;
+}
+body {
+    background-image: url(../kuvat/xp.webp);
+    background-position: center;
+    background-color: aquamarine;
+}
+
