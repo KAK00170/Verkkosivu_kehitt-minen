@@ -26,7 +26,7 @@ body {
     text-align: center;
     vertical-align: top;
     float: left;
-    min-height: 950px;
+    min-height: 1000px;
     height: auto;
     display: flex;
     flex-direction: column;
@@ -41,7 +41,7 @@ body {
     width: 40%;
     width: calc(40% - px);
     float: right;
-    min-height: 950px;
+    min-height: 1000px;
     display: flex;
     align-items: center;
     justify-content: center;
