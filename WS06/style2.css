@@ -34,7 +34,7 @@ a:hover {
     padding: 10px;
 }
 #section {
-    background-color: brown;
+    background-color: rgb(249, 241, 212);
     width: 85%;
     min-height: 400px;
     display: flex;

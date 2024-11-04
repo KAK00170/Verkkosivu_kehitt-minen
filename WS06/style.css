@@ -26,7 +26,7 @@ body {
     text-align: center;
     vertical-align: top;
     float: left;
-    min-height: 1000px;
+    min-height: 1150px;
     height: auto;
     display: flex;
     flex-direction: column;
@@ -36,14 +36,15 @@ body {
     
 }
 #aside {
-    background-color: rgb(249, 241, 212);
+    background-color: brown;
     vertical-align: top;
     width: 40%;
     width: calc(40% - px);
     float: right;
-    min-height: 1000px;
+    min-height: 1150px;
     display: flex;
-    align-items: center;
+    box-sizing: border-box;
+    padding-top: 100px;
     justify-content: center;
 }
 #footer {
